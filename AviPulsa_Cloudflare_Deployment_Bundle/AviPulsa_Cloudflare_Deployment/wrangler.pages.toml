@@ -1,0 +1,5 @@
+# Optional Pages configuration reference. In the Cloudflare Pages dashboard:
+# Framework preset: None
+# Root directory: frontend
+# Build command: leave blank
+# Build output directory: .

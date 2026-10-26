@@ -1,0 +1,10 @@
+name = "avipulsa-api"
+main = "src.js"
+compatibility_date = "2026-10-25"
+
+# Before using D1, create a database in Cloudflare and replace database_name
+# and database_id below with the actual values from your account.
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "avipulsa-db"
+# database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"

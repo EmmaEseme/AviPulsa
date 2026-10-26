@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-labelledby="title desc">
+<title id="title">AviPulsa</title><desc id="desc">A poultry bird silhouette with a pulse line and AviPulsa wordmark.</desc>
+<rect width="420" height="120" rx="20" fill="#102b25"/>
+<g transform="translate(22 17)">
+<circle cx="39" cy="34" r="28" fill="#d8f36a"/>
+<path d="M24 40c-2-14 7-25 20-25 7 0 13 3 17 9l9-2-4 10 5 8-11-2c-4 9-12 13-22 10l-9 8 1-12z" fill="#102b25"/>
+<path d="M7 55h19l8-12 8 18 8-12h24" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="118" y="70" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" fill="#ffffff">AviPulsa</text>
+<text x="120" y="94" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2" fill="#d8f36a">POULTRY FARM MANAGEMENT</text>
+</svg>
